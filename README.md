@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![ted3x's GitHub stats](https://github-readme-stats.vercel.app/api?username=ted3x&show_icons=true&theme=tokyonight)
+![ted3x's GitHub stats](https://github-readme-stats-xi-sable-96.vercel.app/api?username=ted3x&show_icons=true&theme=tokyonight)
