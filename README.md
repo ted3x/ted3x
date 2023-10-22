@@ -5,4 +5,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ted3x&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[Resume](../Profile.pdf)
+[Resume](.Profile.pdf)
